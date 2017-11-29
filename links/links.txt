@@ -1,0 +1,5 @@
+Relevant papers:
+https://ac.els-cdn.com/S0168169999000460/1-s2.0-S0168169999000460-main.pdf?_tid=a518c18a-c637-11e7-ac23-00000aacb35e&acdnat=1510332975_e68602ea374dc9b1d44837537fb9a15e
+
+Data source:
+https://archive.ics.uci.edu/ml/datasets/Covertype
